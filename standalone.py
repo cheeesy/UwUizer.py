@@ -1,4 +1,4 @@
-NotYetUwUed=input("What word do youwu want towo uwu-ize? ")
+NotYetUwUed=input("What wowd do yowouwu want towo uwu-ize? ")
 UwUed=""
 
 def UwUizer(uwu):

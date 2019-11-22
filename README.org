@@ -6,8 +6,5 @@
 I wrote this for someone on Discord.
 I know it's bad.
 
-
----
-
-citrus's changes:
+** [b6142de] citrus's changes:
 Added a python file (standalone.py) that works without the sh file

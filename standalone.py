@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 NotYetUwUed=input("What wowd do yowouwu want towo uwu-ize? ")
 UwUed=""
 

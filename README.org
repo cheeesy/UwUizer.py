@@ -1,0 +1,7 @@
+#+TITLE: UwUizer.py
+#+AUTHOR: cheeesy
+#+DATE: 22.11.2019
+
+** Why?
+I wrote this for someone on Discord.
+I know it's bad.

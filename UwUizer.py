@@ -11,6 +11,7 @@ UwUed=""
 
 def UwUizer(uwu):
     uwu = uwu.replace("man.", "boyfriend.")
+    uwu = uwu.replace(" man ", " boyfriend ") #... uwu
     uwu = uwu.replace("iend", "end")
     uwu = uwu.replace(".", ". uwu") # an UwU after every sentence
     uwu = uwu.replace("?", "? >~<") # a hiding cute >~< after every question

@@ -5,3 +5,9 @@
 ** Why?
 I wrote this for someone on Discord.
 I know it's bad.
+
+
+---
+
+citrus's changes:
+Added a python file (standalone.py) that works without the sh file

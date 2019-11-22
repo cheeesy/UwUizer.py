@@ -23,7 +23,7 @@ def UwUizer(uwu):
     uwu = uwu.replace("l", "w")
     uwu = uwu.replace("think", "thinky-winky")
     uwu = uwu.replace("sly", "swy") # Obviouswy!
-    uwu = uwu.replace("am ", "iz ") # I iz UwU
+    uwu = uwu.replace(" am ", " iz ") # I iz UwU
     uwu = uwu.replace("gay", "gei")
     uwu = uwu.replace("howd", "hold") # Hold may stay
     if (uwu[-1] == 'Ó'):

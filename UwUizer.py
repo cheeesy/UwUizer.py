@@ -27,6 +27,7 @@ def UwUizer(uwu):
     uwu = uwu.replace(" am ", " iz ") # I iz UwU
     uwu = uwu.replace("gay", "gei")
     uwu = uwu.replace("howd", "hold") # Hold may stay
+    uwu = uwu.replace("oo", "owo")
     if (uwu[-1] == 'Ó'):
         uwu += ''
     elif (uwu[-1] == '<'):

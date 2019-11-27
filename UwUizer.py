@@ -27,6 +27,7 @@ def UwUizer(uwu):
     uwu = uwu.replace("!;", ";! >~<") # Emotions
     uwu = uwu.replace("!a", ";! ÒwÓ")
     uwu = uwu.replace("!e", ";! (Ò﹏Ó ╬)")
+    uwu = uwu.replace("!h", ";! ^_^")
     if(uwu.find(";!") == -1):
         uwu = uwu.replace("!", "! OWO")
     uwu = uwu.replace(";!", "!")
@@ -41,18 +42,23 @@ def UwUizer(uwu):
     uwu = uwu.replace("gay", "gei")
     uwu = uwu.replace("howd", "hold") # Hold may stay
     uwu = uwu.replace("oo", "owo")
+    uwu = uwu.replace("the", "teh")
     uwu = uwu.replace("nice", "nais")
     uwu = uwu.replace(";wewy", "vewwy")
     uwu = uwu.replace(";pwettiew", "pwettier")
-    if (uwu[-1] == 'Ó'):
+    if (uwu[-1].upper() == 'Ó'):
         uwu += ''
-    elif (uwu[-1] == 'O'):
+    elif (uwu[-1].upper() == 'O'):
+        uwu += ''
+    elif (uwu[-1].upper() == 'Ò'):
         uwu += ''
     elif (uwu[-1] == '<'):
         uwu += ''
     elif (uwu[-1] == ')'):
         uwu += ''
     elif (uwu[-1] == 'u'):
+        uwu += ''
+    elif (uwu[-1] == '^'):
         uwu += ''
     else:
         uwu += ' uwu~'

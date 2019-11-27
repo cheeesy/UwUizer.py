@@ -16,3 +16,4 @@ You can add characters after an exclamation mark to change emotions
 !; will make a shy, cute >~<,
 !A will make a protective, angry ÒwÓ,
 !E will make an enraged (Ò﹏Ó ╬)
+!H will make a happy ^_^

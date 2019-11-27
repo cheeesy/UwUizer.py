@@ -11,3 +11,8 @@ Added a python file (standalone.py) that works without the sh file
 
 ** Usage
 If you have shell access, you can use ~uwu.sh~, otherwise you can use ~standalone.py~.
+
+You can add characters after an exclamation mark to change emotions
+!; will make a shy, cute >~<,
+!A will make a protective, angry ÒwÓ,
+!E will make an enraged (Ò﹏Ó ╬)

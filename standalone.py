@@ -1,9 +1,23 @@
 #!/usr/bin/env python3
 
 NotYetUwUed=input("What wowd do yowouwu want towo uwu-ize? ")
+
+
+
+# UwUizer.py
+#
+# Tuwn nowmie tekst intu teh gay shit nyaaa~
+#
+# Wwitten by TEH lgbt queen!!! uwu
+
+
 UwUed=""
 
 def UwUizer(uwu):
+    uwu = uwu.replace("you", "chu")
+    uwu = uwu.replace("Idiot", "Baka")
+    uwu = uwu.replace("say", "sej")
+    uwu = uwu.replace("ing", "in")
     uwu = uwu.replace("man.", "boyfriend.")
     uwu = uwu.replace(" man", " boyfriend") #... uwu
     uwu = uwu.replace("iend", "end")

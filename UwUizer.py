@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# UwUizer
+# UwUizer.py
 #
 # Tuwn nowmie tekst intu teh gay shit nyaaa~
 #
@@ -10,6 +10,10 @@ NotYetUwUed="Placeholder text?"
 UwUed=""
 
 def UwUizer(uwu):
+    uwu = uwu.replace("you", "chu")
+    uwu = uwu.replace("Idiot", "Baka")
+    uwu = uwu.replace("say", "sej")
+    uwu = uwu.replace("ing", "in")
     uwu = uwu.replace("man.", "boyfriend.")
     uwu = uwu.replace(" man", " boyfriend") #... uwu
     uwu = uwu.replace("iend", "end")

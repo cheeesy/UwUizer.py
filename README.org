@@ -8,3 +8,6 @@ I know it's bad.
 
 ** [b6142de] citrus's changes:
 Added a python file (standalone.py) that works without the sh file
+
+** Usage
+If you have shell access, you can use ~uwu.sh~, otherwise you can use ~standalone.py~.
